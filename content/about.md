@@ -9,9 +9,13 @@ weight: 50
 
 
 
-<img src="assets/marcel.jpeg" alt="marcel" style="zoom:50%;" />
+<img src="./assets/marcel.jpeg" alt="marcel" style="zoom:50%;" />
 
--
+
+
+```md
+{{< figure src="./assets/marcel.jpeg" title="Marcel Castro" >}}
+```
 
 {% if site.github_username %} {% endif %}
 
