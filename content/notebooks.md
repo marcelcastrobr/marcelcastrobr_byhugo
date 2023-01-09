@@ -8,5 +8,3 @@ url: https://marcelcastrobr.github.io/notebooks/
 ---
 
 
-
-[Notebooks](https://marcelcastrobr.github.io/notebooks/)
