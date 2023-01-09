@@ -13,11 +13,9 @@ weight: 50
 
 
 
-```md
-{{< figure src="./assets/marcel.jpeg" title="Marcel Castro" >}}
+```go-html-template
+{{ $image := resources.Get "marcel.jpeg" }}
 ```
-
-{% if site.github_username %} {% endif %}
 
 **marcelcastrobr@gmail.com**
 
