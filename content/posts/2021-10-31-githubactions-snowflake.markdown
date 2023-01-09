@@ -252,13 +252,13 @@ procedures/my_first_procedure.sql
 
 You can either run your workflow manually as highlighted in the picture below or triggered by a commit to your repository.
 
-![image-20211031165242061](2021-10-31-githubactions-snowflake.assets/image-20211031165242061.png)
+![image-20211031165242061](./2021-10-31-githubactions-snowflake.assets/image-20211031165242061.png)
 
 
 
 After some minutes you see that the workflow run successfully. The picture below shows the results of each steps within the workflow. 
 
-![image-20211027195531968](2021-10-31-githubactions-snowflake.assets/image-20211027195531968.png)
+![image-20211027195531968](./2021-10-31-githubactions-snowflake.assets/image-20211027195531968.png)
 
 
 
