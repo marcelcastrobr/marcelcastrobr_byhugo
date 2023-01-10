@@ -7,7 +7,7 @@ weight: 50
 
 
 
-![Marcel](/marcel.jpeg)
+![Marcel](/static/marcel.jpeg)
 
 
 
