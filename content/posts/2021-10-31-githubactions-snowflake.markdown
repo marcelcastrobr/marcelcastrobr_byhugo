@@ -262,6 +262,12 @@ After some minutes you see that the workflow run successfully. The picture below
 
 
 
+Test
+
+![image-20211027195531968-test](/posts/2021-10-31-githubactions-snowflake.assets/image-20211027195531968.png)
+
+
+
 ## Summary
 
 In this article we explored a simple data workflow using GitHub actions and Snowflake. Github is used a code repository to version our data model. 
