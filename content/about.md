@@ -11,6 +11,10 @@ weight: 50
 
 
 
+![Marcel](https://github.com/marcelcastrobr/marcelcastrobr_byhugo/blob/main/content/marcel.jpeg)
+
+
+
 **marcelcastrobr@gmail.com**
 
 
