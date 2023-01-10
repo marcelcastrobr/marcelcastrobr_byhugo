@@ -7,13 +7,13 @@ weight: 50
 
 
 
-![Marcel](/static/marcel.jpeg)
+
+
+![My image1](/marcel.jpeg)
 
 
 
-![Marcel](https://github.com/marcelcastrobr/marcelcastrobr_byhugo/blob/main/content/marcel.jpeg)
-
-
+![My image2](/about/marcel.jpeg)
 
 **marcelcastrobr@gmail.com**
 

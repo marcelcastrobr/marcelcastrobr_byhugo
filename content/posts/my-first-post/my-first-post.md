@@ -6,3 +6,6 @@ draft: false
 
 Hello, Hugo! 🐝
 
+
+
+![Figure 2](/posts/my-first-post/image.png)

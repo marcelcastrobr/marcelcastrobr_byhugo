@@ -258,15 +258,15 @@ You can either run your workflow manually as highlighted in the picture below or
 
 After some minutes you see that the workflow run successfully. The picture below shows the results of each steps within the workflow. 
 
-![image-20211027195531968](./2021-10-31-githubactions-snowflake.assets/image-20211027195531968.png)
+![image-20211027195531968](2021-10-31-githubactions-snowflake.assets/image-20211027195531968.png)
 
 
 
-Test
-
-![image-20211027195531968-test](/posts/2021-10-31-githubactions-snowflake.assets/image-20211027195531968.png)
+Testing images:
 
 
+
+![image-20211027195531968](/posts/2021-10-31-githubactions-snowflake/2021-10-31-githubactions-snowflake.assets/image-20211027195531968.png)
 
 ## Summary
 
