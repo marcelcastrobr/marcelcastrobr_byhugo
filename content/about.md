@@ -11,11 +11,11 @@ weight: 50
 
 <img src="./assets/marcel.jpeg" alt="marcel" style="zoom:50%;" />
 
-
-
-```go-html-template
 {{ $image := resources.Get "marcel.jpeg" }}
-```
+
+{{ $image := resources.GetRemote "https://gohugo.io/img/hugo-logo.png" }}
+
+
 
 **marcelcastrobr@gmail.com**
 
