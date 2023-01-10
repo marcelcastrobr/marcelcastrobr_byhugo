@@ -7,13 +7,7 @@ weight: 50
 
 
 
-
-
-<img src="./assets/marcel.jpeg" alt="marcel" style="zoom:50%;" />
-
-{{ $image := resources.Get "marcel.jpeg" }}
-
-{{ $image := resources.GetRemote "https://gohugo.io/img/hugo-logo.png" }}
+![Marcel](/marcel.jpeg)
 
 
 
